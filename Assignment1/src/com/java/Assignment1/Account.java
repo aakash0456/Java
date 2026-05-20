@@ -1,4 +1,4 @@
-package com.java.bankAccount;
+package com.java.Assignment1;
 
 import java.util.Scanner;
 
