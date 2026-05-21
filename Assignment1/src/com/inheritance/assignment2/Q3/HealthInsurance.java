@@ -1,4 +1,4 @@
-package com.inheritance.assignmenr2.Q3;
+package com.inheritance.assignment2.Q3;
 
 public class HealthInsurance extends InsurancePolicy{
 int hospitalLimit = 550;

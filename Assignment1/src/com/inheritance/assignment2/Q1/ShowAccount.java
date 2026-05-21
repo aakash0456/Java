@@ -1,4 +1,4 @@
-package com.java.inheritance.assignment2.Q1;
+package com.inheritance.assignment2.Q1;
 
 public class ShowAccount {
 	

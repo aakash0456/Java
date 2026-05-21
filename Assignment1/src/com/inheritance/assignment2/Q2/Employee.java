@@ -1,4 +1,4 @@
-package com.inheritence.assignment2.Q2;
+package com.inheritance.assignment2.Q2;
 
 public class Employee {
   int empid = 1;
