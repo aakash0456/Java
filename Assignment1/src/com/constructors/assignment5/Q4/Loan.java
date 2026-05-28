@@ -1,4 +1,4 @@
-package com.constructors.assignement5.Q4;
+package com.constructors.assignment5.Q4;
 
 public class Loan {
 	
